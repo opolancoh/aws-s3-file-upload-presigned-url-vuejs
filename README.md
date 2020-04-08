@@ -1,24 +1,6 @@
-# aws-file-upload-vue
+## AWS S3 File Uploader with Presigned Url
 
-## Project setup
-```
-yarn install
-```
+A Vue.js app to upload a file to AWS S3
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![App Screenshot](/docs/img/app-screenshot.png?raw=true "App Screenshot")
+![App Workflow](/docs/img/app-workflow.png?raw=true "App Workflow")
